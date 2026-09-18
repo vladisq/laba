@@ -3,4 +3,5 @@ void main() {
 
     IO.println(solution.isValid("((([])))"));
     IO.println(solution.isValid("((([])}}}}})"));
+    IO.println(solution.isValid("("));
 }
